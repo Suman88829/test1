@@ -1,0 +1,104 @@
+body{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   background-color: black;
+   }
+   .container{
+      background-color: white;
+      width: 51%;
+      margin: 0 auto;
+      padding: 10px;
+   }
+   form{
+      background-color: blueviolet;
+      color: white;
+      border: 2px solid black;
+      padding: 10px;
+   }
+   h2{
+      text-align: center;
+      color: blueviolet;
+      text-decoration: underline;
+      
+    }
+    .wrapper{
+      height: 20px;
+      width: 100%;
+      margin: 5px 5px;
+      font-size: 12px;
+   }
+   label{
+      margin-right: 45px;
+   }
+   
+   .selection{
+      display: inline-block;
+      margin-left: -17px;
+    }
+    .last{
+      margin-left:3px;
+  }
+   .email{
+   margin-left:18px;
+  }
+  .mob{
+   margin-left:-29px;
+  }
+  .male{
+   display: inline-block;
+   margin-left: 23px;
+}
+.hobbies{
+   display: inline-block;
+   margin-left: 20px;
+}
+input{
+   border: none;
+   
+}
+.address{
+   margin-left:18px;
+}
+.city{
+   margin-left:44px;
+}
+.PIN{
+   margin-left:16px;
+}
+.state{
+   margin-left:36px;
+}
+.country{
+   margin-left:14px;
+}
+
+.applied{
+   width: 150px;
+}
+.bcom{
+     margin-top: 10px;
+     
+     
+}
+.course{
+   
+   vertical-align: top;
+   display: inline-block;
+}
+.demo{
+   display: inline-block;
+}
+.text{
+   text-align: left;
+   vertical-align: top;
+}
+textarea{
+   margin-left:3px;
+}
+.one{
+   margin-left: 310px;
+}
+button{
+   margin-top: -80px;
+}
